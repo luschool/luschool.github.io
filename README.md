@@ -1,4 +1,5 @@
-These changes were made with Github Desktop + Atom to test cross platform.
+These changes were made with Github Desktop + Atom to test cross platform ease of access.
+
 
 ## Welcome to GitHub Pages
 
