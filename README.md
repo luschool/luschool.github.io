@@ -1,4 +1,4 @@
-verifying Changes made through debian virtual box.
+These changes were made with Github Desktop + Atom to test cross platform.
 
 ## Welcome to GitHub Pages
 
